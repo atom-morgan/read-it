@@ -10,6 +10,6 @@ When I finish a book, I'll add it here. This list is in chronological order star
 8. [Atlas Shrugged](http://www.amazon.com/Atlas-Shrugged-Ayn-Rand/dp/0452011876/ref=sr_1_1?s=books&ie=UTF8&qid=1423790234&sr=1-1&keywords=atlas+shrugged)
 9. [Breaking the Time Barrier](https://www.freshbooks.com/breaking-the-time-barrier)
 10. [Hackers & Painters](http://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554/ref=sr_1_1?s=books&ie=UTF8&qid=1423790286&sr=1-1&keywords=hackers+and+painters)
-11. [YDKJS Scopes & Closures](http://www.amazon.com/You-Dont-Know-JS-Closures/dp/1449335586/ref=sr_1_1?s=books&ie=UTF8&qid=1423790295&sr=1-1&keywords=scopes+and+closures)
+11. [You Don't Know JS: Scopes & Closures](http://www.amazon.com/You-Dont-Know-JS-Closures/dp/1449335586/ref=sr_1_1?s=books&ie=UTF8&qid=1423790295&sr=1-1&keywords=scopes+and+closures)
 12. [Don't Make Me Think](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758/ref=sr_1_2?s=books&ie=UTF8&qid=1423790307&sr=1-2&keywords=dont+make+me+think)
 13. [Steal Like an Artist](http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/ref=sr_1_1?s=books&ie=UTF8&qid=1423790320&sr=1-1&keywords=steal+like+an+artist)
