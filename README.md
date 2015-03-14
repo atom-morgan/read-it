@@ -17,3 +17,4 @@ When I finish a book, I'll add it here. This list is in chronological order star
 15. [Bitcoin: The Future of Money?](http://www.amazon.com/Bitcoin-Future-Money-Dominic-Frisby-ebook/dp/B00NNLWRRM/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1424061544&sr=1-1&keywords=dominic+frisby) - Feb. 15, 2015
 16. [Sex at Dawn: How We Mate, Why We Stray, and What it Means for Modern Relationships](http://www.amazon.com/Sex-Dawn-Stray-Modern-Relationships/dp/1491512407) - Feb. 20, 2015
 17. [How an Economy Grows and Why It Crashes](http://www.amazon.com/How-Economy-Grows-Why-Crashes/dp/047052670X) - Feb. 26, 2015
+18. [The Principles of Object-Oriented JavaScript](http://www.amazon.com/Principles-Object-Oriented-JavaScript-Nicholas-Zakas/dp/1593275404) - Mar. 12, 2015
