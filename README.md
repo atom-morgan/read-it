@@ -18,3 +18,4 @@ When I finish a book, I'll add it here. This list is in chronological order star
 16. [Sex at Dawn: How We Mate, Why We Stray, and What it Means for Modern Relationships](http://www.amazon.com/Sex-Dawn-Stray-Modern-Relationships/dp/1491512407) - Feb. 20, 2015
 17. [How an Economy Grows and Why It Crashes](http://www.amazon.com/How-Economy-Grows-Why-Crashes/dp/047052670X) - Feb. 26, 2015
 18. [The Principles of Object-Oriented JavaScript](http://www.amazon.com/Principles-Object-Oriented-JavaScript-Nicholas-Zakas/dp/1593275404) - Mar. 12, 2015
+19. [The Grand Design](http://www.amazon.com/The-Grand-Design-Stephen-Hawking/dp/055338466X) - Mar. 17, 2015
