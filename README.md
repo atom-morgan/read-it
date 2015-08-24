@@ -23,3 +23,4 @@ When I finish a book, I'll add it here. This list is in chronological order star
 21. [The Design of Everyday Things](http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654) - May. 12, 2015
 22. [Our Final Invention: Artificial Intelligence and the End of the Human Era](http://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/1250058783/) - Jun. 10, 2015
 23. [Art & Fear: Observations On the Perils (and Rewards) of Artmaking](http://www.amazon.com/Art-Fear-Observations-Rewards-Artmaking/dp/0961454733) - Aug. 16, 2015
+24. [Picture This: How Pictures Work](http://www.amazon.com/Picture-This-How-Pictures-Work/dp/1587170302) - Aug. 24, 2015
