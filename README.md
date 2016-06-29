@@ -25,3 +25,4 @@ When I finish a book, I'll add it here. This list is in chronological order star
 23. [Art & Fear: Observations On the Perils (and Rewards) of Artmaking](http://www.amazon.com/Art-Fear-Observations-Rewards-Artmaking/dp/0961454733) - Aug. 16, 2015
 24. [Picture This: How Pictures Work](http://www.amazon.com/Picture-This-How-Pictures-Work/dp/1587170302) - Aug. 24, 2015
 25. [Zero to One: Notes on Startups, or How to Build the Future](http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296) - May 8, 2016
+26. [Gorilla Mindset: How to Control Your Thoughts and Emotions to Live Life on Your Terms](https://www.amazon.com/Gorilla-Mindset-Control-Thoughts-Emotions-ebook/dp/B0100Q4S7E#nav-subnav) - June 29, 2016
