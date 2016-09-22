@@ -29,3 +29,4 @@ When I finish a book, I'll add it here. This list is in chronological order star
 27. [How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life](https://www.amazon.com/How-Fail-Almost-Everything-Still/dp/1591847745) - Aug. 9, 2016
 28. [Islam and the Future of Tolerance: A Dialogue](https://www.amazon.com/Islam-Future-Tolerance-Sam-Harris/dp/0674088700) - Aug. 15, 2016
 29. [Ride of Your Life: A Coast-to-Coast Guide to Finding Inner Peace](https://www.amazon.com/Ride-Your-Life-Coast-Coast/dp/1620155893) - Aug. 15, 2016
+30. [Danger & Play: Mike Cernovich's Guide to Life](https://www.amazon.com/Danger-Play-Mike-Cernovichs-Guide-ebook/dp/B016QIBSLE) - Sept. 15, 2016
