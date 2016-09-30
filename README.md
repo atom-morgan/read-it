@@ -30,3 +30,5 @@ When I finish a book, I'll add it here. This list is in chronological order star
 28. [Islam and the Future of Tolerance: A Dialogue](https://www.amazon.com/Islam-Future-Tolerance-Sam-Harris/dp/0674088700) - Aug. 15, 2016
 29. [Ride of Your Life: A Coast-to-Coast Guide to Finding Inner Peace](https://www.amazon.com/Ride-Your-Life-Coast-Coast/dp/1620155893) - Aug. 15, 2016
 30. [Danger & Play: Mike Cernovich's Guide to Life](https://www.amazon.com/Danger-Play-Mike-Cernovichs-Guide-ebook/dp/B016QIBSLE) - Sept. 15, 2016
+31. [The Internet of Money](https://www.amazon.com/dp/B01L9WM0H8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Sept. 30, 2016
+32. [The Three-Body Problem (Remembrance of Earth's Past)](https://www.amazon.com/dp/B00IQO403K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Sept. 30, 2016
