@@ -32,3 +32,4 @@ When I finish a book, I'll add it here. This list is in chronological order star
 30. [Danger & Play: Mike Cernovich's Guide to Life](https://www.amazon.com/Danger-Play-Mike-Cernovichs-Guide-ebook/dp/B016QIBSLE) - Sept. 15, 2016
 31. [The Internet of Money](https://www.amazon.com/dp/B01L9WM0H8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Sept. 30, 2016
 32. [The Three-Body Problem (Remembrance of Earth's Past)](https://www.amazon.com/dp/B00IQO403K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Sept. 30, 2016
+33. [Choose Yourself!](https://www.amazon.com/Choose-Yourself-James-Altucher/dp/1490313370) - Oct. 12, 2016
