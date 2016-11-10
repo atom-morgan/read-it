@@ -34,3 +34,4 @@ When I finish a book, I'll add it here. This list is in chronological order star
 32. [The Three-Body Problem (Remembrance of Earth's Past)](https://www.amazon.com/dp/B00IQO403K/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Sept. 30, 2016
 33. [Choose Yourself!](https://www.amazon.com/Choose-Yourself-James-Altucher/dp/1490313370) - Oct. 12, 2016
 34. [The 10,000 Year Explosion: How Civilization Accelerated Human Evolution](https://www.amazon.com/dp/B0042FZRPC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Oct. 25, 2016
+35. [The Wolf of the North](https://www.amazon.com/gp/product/B01MECBG64/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1) - Nov. 9, 2016
