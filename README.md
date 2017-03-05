@@ -36,3 +36,4 @@ When I finish a book, I'll add it here. This list is in chronological order star
 34. [The 10,000 Year Explosion: How Civilization Accelerated Human Evolution](https://www.amazon.com/dp/B0042FZRPC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Oct. 25, 2016
 35. [The Wolf of the North](https://www.amazon.com/gp/product/B01MECBG64/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1) - Nov. 9, 2016
 36. [The Atlantis Gene: A Thriller (The Origin Mystery, Book 1)](https://www.amazon.com/Atlantis-Gene-Thriller-Origin-Mystery-ebook/dp/B00C2WDD5I) - Dec. 23, 2016
+37. [Brave New World](https://www.amazon.com/Brave-New-World-Aldous-Huxley/dp/0060850523) - Feb. 24, 2017
