@@ -40,3 +40,4 @@ When I finish a book, I'll add it here. This list is in chronological order star
 38. [The War of Art](https://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026) - Apr. 9, 2017
 39. [Not Caring What Other People Think Is a Super Power: Insights From A Heavyweight Boxer](https://www.amazon.com/gp/product/B06WD69VFX/ref=oh_aui_d_detailpage_o01_?ie=UTF8&psc=1) - Sept. 30, 2017
 40. [Trackers (Volume 1)](https://www.amazon.com/gp/product/1542412862/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1542412862&linkCode=as2&tag=atommorgan-20&linkId=1b4af078e3a48bb87acd07ba6b2fb754) - Dec 3. 2017
+41. [On Writing: A Memoir Of The Craft](https://www.amazon.com/dp/B000FC0SIM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Dec. 21, 2017
