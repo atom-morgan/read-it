@@ -42,4 +42,5 @@ When I finish a book, I'll add it here. This list is in chronological order star
 40. [Trackers (Volume 1)](https://www.amazon.com/gp/product/1542412862/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1542412862&linkCode=as2&tag=atommorgan-20&linkId=1b4af078e3a48bb87acd07ba6b2fb754) - Dec 3. 2017
 41. [On Writing: A Memoir Of The Craft](https://www.amazon.com/dp/B000FC0SIM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Dec. 21, 2017
 42. [The Shining](https://www.amazon.com/dp/B001BANK32/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) - Jan. 9, 2018
-43. [12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos-ebook/dp/B01FPGY5T0) - Mar. 5, 2018
+43. [12 Rules for Life: An Antidote to Chaos](https://www.amazon.com/gp/product/0345816021/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0345816021&linkCode=as2&tag=atommorgan00-20&linkId=1147dd06b0a2858fbef796b3a8335132) - Mar. 5, 2018
+44. [No B.S. Direct Marketing: The Ultimate No Holds Barred Kick Butt Take No Prisoners Direct Marketing for Non-Direct Marketing Businesses](https://www.amazon.com/gp/product/159918625X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=159918625X&linkCode=as2&tag=atommorgan00-20&linkId=74404060e0b476575710a3170456dbdd) - Aug. 6, 2018
